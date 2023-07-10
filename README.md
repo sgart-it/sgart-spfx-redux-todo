@@ -7,6 +7,7 @@ Esempio di uso di Redux con React e SPFx
 
 ![screenshot](images/sgart-spfx-redux-todo.png)
 
+https://www.sgart.it
 
 vedi cartella **redux** e l'uso del provider nella webpart **ReduxExampleWebPart**
 

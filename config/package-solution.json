@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sgart-spfx-redux-client-side-solution",
+    "id": "fc634773-c0d3-4d14-986c-ab963fff857c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sgart-spfx-redux description"
+      },
+      "longDescription": {
+        "default": "sgart-spfx-redux description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sgart-spfx-redux Feature",
+        "description": "The feature that activates elements of the sgart-spfx-redux solution.",
+        "id": "2f1d1bf4-8255-406a-a036-edf95ad65402",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sgart-spfx-redux.sppkg"
+  }
+}
